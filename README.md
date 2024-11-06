@@ -1,4 +1,4 @@
-# Parallex-Scrolling-Background
+# Parallex Scrolling Background
 This project demonstrates a parallax scrolling background effect, where multiple layers of images move at different speeds to create a sense of depth as you adjust the game speed. The background consists of several layers, and the speed of movement can be controlled by a slider, offering a dynamic visual experience.
 
 ## How It Works

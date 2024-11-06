@@ -1,0 +1,18 @@
+#canvas {
+    position: relative; 
+    width: 800px;
+    height: 700px;
+}
+
+.container {
+    width: 800px;
+    font-size: 25px;
+}
+
+#slider {
+    width: 100%;
+}
+
+.text {
+    color: black;
+}

@@ -4,3 +4,5 @@ This project demonstrates a parallax scrolling background effect, where multiple
 ## How It Works
 - Layer Speed Modifiers: Each background layer moves at a different speed, which creates a sense of depth.
 - Slider Control: The slider allows you to adjust the speed of all the layers simultaneously, altering the pace of the animation.
+
+Guided project from [Bevouliin Design](https://www.youtube.com/@bevouliindesign7777)
